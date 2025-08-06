@@ -23,7 +23,11 @@ Codex Tools is a growing suite of free, privacy-friendly developer utilities ava
 
 ## 📌 Note
 
-This repo is **not** for submitting code or pull requests. If you're looking to contribute to the codebase, please refer to the main project repository (coming soon or private).
+This repository is exclusively for collecting suggestions, bug reports, and feature requests for **Codex Tools**.
+
+The main source code repository is **private** and not publicly available.
+
+Therefore, this space is only for open communication with the community and not for direct code contributions.
 
 ---
 
